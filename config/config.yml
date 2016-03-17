@@ -1,0 +1,5 @@
+graphite_ip : localhost
+graphite_port : 2003
+
+server_ip : localhost
+server_port : 9000
